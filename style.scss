@@ -30,6 +30,8 @@ body {
         }
         .footer {
             @include article-card(green, blue, 24px);
+            width: 100%;
+            text-align: center;
         }
     }
 }

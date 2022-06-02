@@ -30,6 +30,8 @@ body div .footer {
   color: green;
   border: 1px solid blue;
   font-size: 24px;
+  width: 100%;
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
